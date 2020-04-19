@@ -1,0 +1,56 @@
+/* element tags */
+p {
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}
+body {
+    background-color: gray;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+    
+}
+
+a:hover {
+    color: blue;
+    
+}
+
+/* IDs */
+#white {
+    color: white;
+}
+
+/* classes */
+.my-img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 35%;
+    border: 1px solid black;
+}
+.me {
+background-color: blue;
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+border: 1px solid black;
+}
+.lblue {
+    color: lightblue;
+}
+.center {
+    text-align: center;
+}
+.imgOne {
+    height: 250px;
+    width: 250px;
+    margin: 20px
+    ;
+}
+.contact {
+    color: black;
+}
